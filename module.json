@@ -1,0 +1,36 @@
+{
+  "id": "everyday-heroes-spanish-translation",
+  "title": "Everyday Heroes [Spanish translation]",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "scripts": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Juancho Carrillo",
+      "discord": "juancho.carrillo",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ]
+}

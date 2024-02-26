@@ -1,0 +1,257 @@
+{
+	"label": "Archetypes & Classes",
+	"entries": {
+		"Advanced Combat Training": {
+			"name": "Advanced Combat Training",
+			"description": "<p>Once during your turn, when you take the Attack action, you can make two attacks as part of that action.</p>"
+		},
+		"Agile": {
+			"name": "Ágil",
+			"description": "<p><em><q>There are two kinds of people: the fast ones, and the dead ones.</q> <strong>—Sarah Barnes</strong></em></p><p>You are a master of speed and precision. You have honed your reflexes to the point you can act faster than you can think. Your pinpoint accuracy makes you a deadly foe in any firefight.</p><p>Agile heroes focus on ranged attacks and light weapons. Their high mobility and rapid attacks make them deadly heroes in combat.</p><p><strong>Hit Dice:</strong> 1d8 per hero level</p><p><strong>Starting Hit Points:</strong> 8 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Agile Movement):</strong> 10 + Dexterity modifier + Agile Hero Defense Bonus</p>"
+		},
+		"Alert": {
+			"name": "Alert",
+			"description": "<p>You cannot be surprised.</p>"
+		},
+		"Banter": {
+			"name": "Banter",
+			"description": "<p>As a bonus action, you can give your allies an opening by drawing the attention of an opponent you are aware of who can hear you within 60 feet. The next attack one of your allies makes against that target before the start of your next turn has advantage.</p>"
+		},
+		"Bits and Pieces": {
+			"name": "Bits and Pieces",
+			"description": "<p>Immediately after you use your Smash talent with a melee attack that is not an unarmed strike and break the weapon, you can use a bonus action to make an additional attack using the destroyed pieces of the weapon. The pieces are an improvised weapon that deal 1d4 damage and are destroyed after the attack.</p>"
+		},
+		"Brawler": {
+			"name": "Brawler",
+			"description": "<p class=\"header\"><q>If brute force ain't workin', yer just not usin' enough!</q> <em><strong>—Mack Williams</strong></em></p><p>You break stuff and hit people. Sometimes you mix it up by hitting stuff and breaking people.</p><p>You imprinted on comics as a kid, and it shows in your approach to a fight. With fists like hammers and the ability to turn nearly anything into a deadly weapon, you are dangerous and everyone knows it.</p><p>The brawler charges into melee combat, hitting hard and destroying everything in their path. They enjoy using improvised weapons but are also great unarmed combatants. The brawler doesn't need to carry weapons to fight at full strength.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Strength and Constitution</p></li><li><p><strong>\u0017Skills:</strong> Choose two from Acrobatics, Athletics, Endurance, Intimidation, Mechanics, and Streetwise</p></li><li><p><strong>Equipment:</strong> Basic Equipment and Improvised Equipment</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Badass Pack</p></li><li><p><strong>Weapons:</strong> Unarmed strikes and anything you find lying around</p></li></ul></div>"
+		},
+		"Center of Attention": {
+			"name": "Center of Attention",
+			"description": "<p>Whenever you desire, you can make yourself the center of attention. As long as you continue to speak, perform, or otherwise attract attention, enemies and bystanders that can see or hear you have disadvantage on Wisdom (Perception) checks made against anyone and anything other than you.</p>"
+		},
+		"Charm": {
+			"name": "Charm",
+			"description": "<p>When you make a Charisma check, after rolling but before determining the result, you can roll an influence die and add it to your result.</p>"
+		},
+		"Charming": {
+			"name": "Charming",
+			"description": "<p><em><q>Charisma is the gravity of the soul. You can't put your finger on it, yet it governs the heavens.</q> <strong>—Salvadore Bittencourt, esq.</strong></em></p><p>When you smile, the whole world smiles with you. It might be your beauty, your golden voice, or your way with words, but your ability to influence others is the key to your success.</p><p>Charming heroes use influence dice to boost their other die rolls. They focus on helping allies and hindering enemies in combat rather than relying on their own strengths.</p><p><strong>Hit Dice:</strong> 1d8 per hero level</p><p><strong>Starting Hit Points:</strong> 8 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Not in the Face!):</strong> 10 + (Charisma or Dexterity) modifier + Charming Hero Defense bonus</p>"
+		},
+		"Commando": {
+			"name": "Commando",
+			"description": "<p class=\"header\"><q>The wise recruit hopes for peace but prepares for war. For the veteran, peace is like a fallen comrade, something you never get back.</q> <em><strong>—Sue Fairfield</strong></em></p><p>You are the consummate warrior, dangerous with any weapon and trained to survive every circumstance. You are ready for whatever the enemy has to throw at you. The only thing you might be unprepared for is peace.</p><p>The commando is an all-around combat class that offers a great blend of defense and offense. Unlike the other tough heroes, they can't directly protect their allies, but they are versatile and can use nearly any weapon. You might consider investing in Dexterity if you want to lean into offensive strategies.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Strength and Constitution</p></li><li><p><strong>Skills:</strong> Choose two from Athletics, Endurance, Mechanics, Persuasion, Streetwise, Survival, and Vehicles</p></li><li><p><strong>Equipment:</strong> Basic Equipment, Advanced Equipment, and Military Equipment</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Soldier Pack</p></li><li><p><strong>Weapons:</strong> Assault carbine rifle, 9mm semi-auto pistol, combat knife</p></li></ul></div>"
+		},
+		"Concentration": {
+			"name": "Concentration",
+			"description": "<p>When you fail a Wisdom ability check, you can spend 1 Focus to reroll that check. This can be used only once per ability check.</p>"
+		},
+		"Covert Expertise": {
+			"name": "Covert Expertise",
+			"description": "<p>You gain expertise in two of the following skills: Deception, Security, Sleight of Hand, Stealth, or Streetwise. You must be proficient in a skill to take expertise in that skill.</p>"
+		},
+		"Crush": {
+			"name": "Crush",
+			"description": "<p>You have advantage on any Strength check you make to break an object.</p><p>In addition, your melee attacks have +1 Penetration Value.</p>"
+		},
+		"Deduction": {
+			"name": "Deduction",
+			"description": "<p>When you fail an Intelligence ability check, you can reroll that check. This can be done only once per ability check.</p>"
+		},
+		"Elementary": {
+			"name": "Elementary",
+			"description": "<p>You always treat a roll of 9 or lower as a 10 on any ability check you make that uses Perception, Insight, or Investigation, even if you are not proficient in those skills.</p>"
+		},
+		"Evasion": {
+			"name": "Evasion",
+			"description": "<p>When you make a Dexterity saving throw to take half damage from an effect, you take no damage on a successful save, and half damage on a failed one.</p>"
+		},
+		"Extra Effort": {
+			"name": "Extra Effort",
+			"description": "<p>By pushing yourself to the limit, you can take an additional action during your turn. You can do this only once before you finish a short or long rest.</p>"
+		},
+		"Fast Reflexes": {
+			"name": "Fast Reflexes",
+			"description": "<p>You have advantage on initiative rolls.</p>"
+		},
+		"Fighting Spirit": {
+			"name": "Fighting Spirit",
+			"description": "<p>You can take the Second Wind action as a bonus action.</p>"
+		},
+		"Flinch": {
+			"name": "Flinch",
+			"description": "<p>As a reaction, when an opponent within 5 feet that can see you targets you with an attack, you can cause that attack to have disadvantage. They cannot change targets in response to you doing this.</p>"
+		},
+		"Focus": {
+			"name": "Focus",
+			"description": "<p>You have Focus points equal to the number shown on the Wise Hero table, which can be spent to use your Concentration talent as well as talents granted by your class. All your Focus recharges whenever you finish a short or long rest.</p>"
+		},
+		"Genius": {
+			"name": "Genius",
+			"description": "<p>Your incredible Genius allows you to devise and enact cunning plans that can accomplish what seems impossible until you explain how they came to fruition.</p><p>You can enact any plan you know by spending 1 Genius. The Smart Hero table shows how much Genius you have based on your level. Genius recharges when you finish a long rest. Provided you have Genius, you can use any of your plans without restriction.</p>"
+		},
+		"Grenadier": {
+			"name": "Grenadier",
+			"description": "<p>You can draw, arm, and throw a grenade as a bonus action. You must have a free hand or already be holding the grenade to do this.</p>"
+		},
+		"Haymaker": {
+			"name": "Haymaker",
+			"description": "<p>When making an unarmed strike and using Reckless Attack, you can also use Power Attack. (Normally, you cannot use Power Attack when using Reckless Attack.)</p>"
+		},
+		"Hurl": {
+			"name": "Hurl",
+			"description": "<p>You can double the throwing range when you attack with any weapon that has the thrown property.</p>"
+		},
+		"Icon": {
+			"name": "Icon",
+			"description": "<p class=\"header\"><q>I'm so cool I got penguins writing me postcards.</q> <em><strong>—Johnny Blaze</strong></em></p><p>You are too cool for school, a legend among those who know of you. You add something special to everything you do and you make sure everyone knows about it. You're sure you were born to be a hero.</p><p>The icon offers an even mix of offense, defense, and social skills. Their abilities are unique, fun, and versatile, but if you're looking for a powerhouse in combat, this is not the class for you. If you want to be wonderfully ridiculous, you have come to the right place.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Dexterity and Charisma</p></li><li><p><strong>Skills:</strong> Choose three from Acrobatics, Athletics, Arts and Crafts, Deception, Intimidation, Performance, Persuasion, and Streetwise</p></li><li><p><strong>Equipment:</strong> Basic Equipment and Advanced Equipment</p></li><li><p><strong>Celebrity Expertise:</strong> Choose one from Arts and Crafts, Performance, and Persuasion. You must be proficient in a skill to gain expertise in that skill.</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Entertainer Pack</p></li><li><p><strong>Weapons:</strong> Pump shotgun or hand cannon</p></li></ul></div><h4 class=\"rounded\">Icon Tricks</h4><ul class=\"multi-column-list\"><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.SqRhUUrAGpnl608B]{Do You Know Who I Am?}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.ryjUTJxJ6WlqsviR]{Frightening Blow}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.PvJKwirwGKVFPnWg]{Insult to Injury}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.wDDwgVFEdf3ak9VS]{Magnetic Personality}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.LO00bP36CHwC3jts]{Taunting Blow}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.FImQicYqQDJh5sNf]{Watch This}</p></li></ul>"
+		},
+		"Influence": {
+			"name": "Influence",
+			"description": "<p>You have two influence dice, which are d6s. An influence die is expended when it is rolled. You regain all your expended influence dice when you finish a short or long rest.</p><p>You gain additional influence dice as you gain levels, as shown in the Charming Hero table.</p>"
+		},
+		"Investigative Expertise": {
+			"name": "Investigative Expertise",
+			"description": "<p>Choose one from Insight, Investigation, or Perception. You must be proficient in a skill to take expertise in that skill.</p>"
+		},
+		"Know-It-All": {
+			"name": "Know-It-All",
+			"description": "<p>You have advantage on all ability checks to recall information.</p>"
+		},
+		"Master of Arms": {
+			"name": "Master of Arms",
+			"description": "<p>You add one die to the damage of all weapons you wield. (See \"Dice Rules\" in chapter 8 for details on extra dice.)</p>"
+		},
+		"Master of Subterfuge": {
+			"name": "Master of Subterfuge",
+			"description": "<p>You always treat a roll of 9 or lower as a 10 on Deception, Security, Sleight of Hand, Stealth, or Streetwise checks (even if you are not proficient in those skills).</p>"
+		},
+		"Mastermind": {
+			"name": "Mastermind",
+			"description": "<p class=\"header\"><q>Never bet against stupid. They never know when to quit and they have a clear numbers advantage.</q> <em><strong>—Wesley Scott</strong></em></p><p>You are always at least one step ahead of your enemies, plotting, scheming, and planning your next masterstroke. Your allies benefit from your genius as well. If only you could find someone to truly challenge you.</p><p>Mastermind plans involve strategies that were retroactively enacted in the past, to be revealed only in the present moment. This makes the mastermind very powerful outside combat, with the ability to shortcut difficult challenges. In combat, however, they are rather weak and vulnerable.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Intelligence and Wisdom</p></li><li><p><strong>\u0017Skills:</strong> Choose four from Computers, Deception, Insight, Investigation, Medicine, Natural Sciences, Perception, Persuasion, Security, Social Sciences, and Streetwise</p></li><li><p><strong>Equipment:</strong> Basic Equipment</p></li><li><p><strong>Mental Expertise:</strong> Choose two from Computers, Deception, Insight, Investigation, Perception, Persuasion, Security, Social Sciences, and Streetwise. You must be proficient in a skill to take expertise in that skill.</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Executive Pack</p></li><li><p><strong>Weapons:</strong> Pocket .38 pistol or hunting rifle</p></li></ul></div><h4 class=\"rounded\">Mastermind Plans</h4><p>Your Smart Hero level determines the number of plans you know, as shown in the Plans column of the @UUID[Compendium.everyday-heroes.rules.c99xr13P6d0yMJet.JournalEntryPage.s8rHkJSYANVEhrjB]{Smart Hero table}. Masterminds can select from these plans in addition to the shared plans available to all Smart Heroes.</p><ul class=\"multi-column-list\"><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.U8h7lB2FFuA86ugH]{I Had It Poisoned}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.gq8IRATatLKJScQM]{I Had Them Bugged}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.m29GbjB2KpgTrNhY]{I Have the Perfect Disguise}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.jcubnjN5uh2JJpFm]{I Knew You'd Do That}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.97AwDC8SacrqlcWq]{I Lured You Into Danger}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.4K2w3PsavdYuxKI5]{I'll Tell You How It's Done}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.tzKxD9h2EfacQL5R]{They'll Never See Us Coming}</p></li></ul>"
+		},
+		"Maximum Effort": {
+			"name": "Maximum Effort",
+			"description": "<p>You can use your Extra Effort ability twice before finishing a short or long rest, instead of only once. You can use Extra Effort only once per turn.</p>"
+		},
+		"Mental Refresh": {
+			"name": "Mental Refresh",
+			"description": "<p>When you take a short rest, you can refresh your mind with a nice snack, a power nap, and/or some light reading. You regain 1 Genius point when you finish that short rest. You can do this only once before you finish a long rest.</p>"
+		},
+		"Not My Style": {
+			"name": "Not My Style",
+			"description": "<p>Whenever you roll a 1 on an influence die or a damage die, you can reroll that die once, taking the new result.</p>"
+		},
+		"One Step Ahead": {
+			"name": "One Step Ahead",
+			"description": "<p>You can choose not to fall Prone when you take the Dive for Cover reaction.</p>"
+		},
+		"Payback": {
+			"name": "Payback",
+			"description": "<p>You gain a +2 bonus on one attack roll against an opponent who has damaged you since the end of your last turn. You can use this talent once during your turn. You can decide to use Payback after making your attack roll, but before determining the result.</p>"
+		},
+		"Plans": {
+			"name": "Plans",
+			"description": "<p>You have a limited number of plans at your disposal. The total number is:</p><p><strong>Intelligence modifier (minimum 1) + ½ Hero Level (rounded down)</strong></p><p>Select a set of plans equal to the total above from the shared plans list and your class's plan list. As your maximum number of plans grows due to your intelligence or level, you can select additional plans for your list. These selections are semi-permanent. When you gain a level, you can decide to exchange a single plan you know for a different plan.</p><p>The effect of each plan, as well as the action you must take to enact it, is included in the plan's individual description. If a plan calls for a saving throw, the save DC is 8 + your Intelligence modifier + your proficiency bonus. This is your plan DC.</p><p>Plans grow in power as you gain more levels.</p><p>Each plan describes how it improves, and these enhancements are cumulative unless otherwise noted. Heroes multiclassing into Smart Hero have a cap on the level of effect they can access.</p>"
+		},
+		"Power Attack": {
+			"name": "Power Attack",
+			"description": "<p>Before making an attack roll with a melee weapon (including weapons with the thrown property) during your turn, you can take a –5 penalty on the attack roll to gain a +10 bonus to damage if the attack hits. You cannot use Power Attack if the attack was made as part of a bonus action, with a thrown explosive, or when using Reckless Attack. You also cannot use Power Attack with any attack that does not require an attack roll.</p>"
+		},
+		"Quickness": {
+			"name": "Quickness",
+			"description": "<p>You can take the Dash or Disengage action as a bonus action.</p><p>In addition, during a foot chase, you have advantage on Strength (Athletics) checks made as part of a Gain Ground action.</p>"
+		},
+		"Rampage": {
+			"name": "Rampage",
+			"description": "<p>As a bonus action, you can move up to your speed if you move toward an opponent. If there are no opponents present, you may move toward an obviously dangerous situation instead.</p><p>In addition, during a foot chase, if you are a predator (you're doing the chasing), you have advantage on Strength (Athletics) and Constitution (Endurance) checks made as part of a Gain Ground action.</p>"
+		},
+		"Reckless Attack": {
+			"name": "Reckless Attack",
+			"description": "<p>At the start of your turn, you can declare you are being reckless. You gain advantage on attack rolls with melee weapons until the end of your turn. Your opponents gain advantage on attack rolls against you until the start of your next turn.</p>"
+		},
+		"Roll With It": {
+			"name": "Roll With It",
+			"description": "<p>When you take damage from an attack, you can use your reaction to reduce that attack's damage by half.</p>"
+		},
+		"Scoundrel": {
+			"name": "Scoundrel",
+			"description": "<p class=\"header\"><q>Oh, did I hurt your pride? Consider that an appetizer.</q> <em><strong>—daxx</strong></em></p><p>Honorable combat is a sucker bet. There isn't a low blow, dirty trick, or cheap shot you don't know. You have mastered skills that can be put to disreputable uses. These skills don't make you a bad person, but you do have the necessary credentials to play the part.</p><p>The scoundrel is a capable fighter who boasts a range of useful skill proficiencies. Getting advantage on attacks is key to their success in a fight. For this reason, shotguns are a great weapon choice for scoundrels in ranged combat, since the shot property always offers advantage within 30 feet.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Dexterity and Charisma</p></li><li><p><strong>Skills:</strong> Choose three from Acrobatics, Deception, Intimidation, Security, Sleight of Hand, Stealth, Streetwise, and Vehicles</p></li><li><p><strong>Equipment:</strong> Basic Equipment and Advanced Equipment</p></li><li><p><strong>Criminal Expertise:</strong> You gain expertise in one of the following skills: Deception, Security, Sleight of Hand, Stealth, or Streetwise. You must be proficient in a skill to take expertise in that skill.</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Street Criminal Pack or Spy Pack</p></li><li><p><strong>Weapons:</strong> Pump shotgun, brass knuckles, or stun gun</p></li></ul></div>"
+		},
+		"Situational Awareness": {
+			"name": "Situational Awareness",
+			"description": "<p>You gain a +2 bonus to your Defense, replacing the bonus from Watch Your Six.</p>"
+		},
+		"Sixth Sense": {
+			"name": "Sixth Sense",
+			"description": "<p>You gain the following benefits:</p><ul><li><p>You can use Wisdom instead of Dexterity for any attack or damage roll you make with weapons that don't have the heavy property.</p></li><li><p>You can use Wisdom instead of Dexterity when you roll for initiative.</p></li><li><p>You can take the Search action as a bonus action.</p></li></ul>"
+		},
+		"Sleuth": {
+			"name": "Sleuth",
+			"description": "<p class=\"header\"><q>The truth is strong medicine. It can make you whole, but it leaves a very bitter taste in your mouth.</q> <em><strong>—Kat Whitlock</strong></em></p><p>Evil never sleeps, so neither do you. Your keen perception pierces the veil of the devious. Your inner darkness gives you insight into the worst villains humanity has to offer. It's a dirty job, but someone's gotta do it.</p><p>The sleuth has the skills necessary to solve mysteries and avoid dangers. They are the most defensive of the Wise Heroes with abilities to help them stay alive. At higher levels they gain offense to make them dangerous to unwary enemies.</p><div class=\"callout\"><h5>Proficiencies</h5><ul><li><p><strong>Saving Throws:</strong> Intelligence and Wisdom</p></li><li><p><strong>Skills:</strong> Choose three from Arts and Crafts, Computers, Deception, Insight, Investigation, Perception, Security, Stealth, Streetwise, and Vehicles</p></li><li><p><strong>Equipment:</strong> Basic Equipment</p></li><li><p><strong>Investigative Expertise:</strong> Choose one from Insight, Investigation, or Perception. You gain expertise in that skill. You must be proficient in a skill to take expertise in that skill.</p></li></ul><h5>Equipment Recommendations</h5><ul><li><p><strong>Equipment Pack:</strong> Detective Pack or Police Pack</p></li><li><p><strong>Weapons:</strong> Heavy revolver pistol or hunting rifle</p></li></ul></div>"
+		},
+		"Smart": {
+			"name": "Smart",
+			"description": "<p><em><q>Mistakes are essential. That's when you really learn something.</q> <strong>—Alistair McQueen</strong></em></p><p>While others are playing checkers, you're playing 4-dimensional chess. The human mind is the ultimate weapon, and yours is honed to a razor's edge.</p><p>Smart Heroes use their genius to enact plans. Plans are powerful but limited effects that can break the fourth wall, effectively changing the past to affect the present.</p><p><strong>Hit Dice:</strong> 1d6</p><p><strong>Starting Hit Points:</strong> 6 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d6 (or 4) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Superior Tactics):</strong> 10 + Intelligence modifier + Smart Hero Defense bonus</p><p></p><h4 class=\"rounded\">Smart Hero Shared Plans</h4><p>These plans are available to all Smart Heroes. Plans represent the ability of the Smart Hero to anticipate situations and have preparations in place to deal with the challenges that face them. Players are not required to explain precisely how those arrangements came into being, but it can add a lot of fun to the game. The GM is welcome to help with this as well.</p><p>Each plan has some level of detail explaining how it can be used, but we encourage both players and the GM to invent creative new uses for these plans in keeping with the idea behind each. Doing so can lead to fun moments in roleplay and problem solving. However, the GM gets final say in just how far you can push the boundaries with your plans.</p><ul class=\"multi-column-list\"><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.gmpAIBKPn27XAxzF]{Coordinated Maneuvers}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.nnz4IyVvPvreT1cw]{Dirty Little Secrets}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.w8RjUntlLaQYUprb]{Expect the Unexpected}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.kji6ZdaayvqLtGyi]{Know the Layout}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.tF4Z8d98VVxT4VYB]{The Right Tool}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.DlzzpVNBecvKhmYa]{Watch Your Step}</p></li><li><p>@UUID[Compendium.everyday-heroes.plans-tricks.LWgKFCMPPoMd1cG8]{When a Plan Comes Together}</p></li></ul>"
+		},
+		"Smash": {
+			"name": "Smash",
+			"description": "<p>Once during your turn, when you hit an opponent with a melee weapon (including weapons with the thrown property), you can choose to deal an additional 1d6 damage, or an additional 1d12 damage if you used the Power Attack talent as part of the attack. If you did not attack with an unarmed strike, the weapon you used to make the attack is destroyed. You can't use this talent with thrown explosives, such as grenades.</p><p>The amount of extra damage increases as you gain levels in this class, as shown on the Smash Damage column of the Brawler table.</p>"
+		},
+		"Star of the Show": {
+			"name": "Star of the Show",
+			"description": "<p>When you make an attack, you can choose to automatically hit, and that hit is a critical hit. You cannot do this again until you finish a short or long rest.</p>"
+		},
+		"Strong": {
+			"name": "Strong",
+			"description": "<p><em><q>Get big or get broken, my friend! Your choice.</q> <strong>—Good ole Jacqz</strong></em></p><p>You have trained your body for strength and explosive power. You hit hard, excelling in close combat. As a hero, you fight because others can't.</p><p>Strong heroes are durable fighters who make high damage attacks. They specialize in melee attacks, whether they favor unarmed strikes or close combat weapons.</p><p><strong>Hit Dice:</strong> 1d10 per hero level</p><p><strong>Starting Hit Points:</strong> 10 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Meat Shield):</strong> 10 + Strength modifier + Strong Hero Defense bonus</p>"
+		},
+		"Surprise Attack": {
+			"name": "Surprise Attack",
+			"description": "<p>You have advantage on attack rolls against any opponent that has not yet taken a turn during this combat.</p>"
+		},
+		"Swift": {
+			"name": "Swift",
+			"description": "<p>As a bonus action, you can make a Dexterity (Security) check, a Dexterity (Sleight of Hand) check, use the Hide action, or use the Object Interaction action.</p>"
+		},
+		"Tough": {
+			"name": "Tough",
+			"description": "<p><em><q>Your sticks and stones might break my bones, but you ain't ever gonna kill me!</q> <strong>—Hondo</strong></em></p><p>You don't know what it means to give up. No matter what knocks you down, you get up again. Where there is a fight to be found, you'll be in the thick of it, often risking your life to protect others.</p><p>Tough heroes are durable characters, sometimes at the expense of offensive options or out of combat abilities. Many excel at protecting their teammates.</p><p><strong>Hit Dice:</strong> 1d12 per hero level</p><p><strong>Starting Hit Points:</strong> 12 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d12 (or 7) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Thick Skinned):</strong> 10 + (Constitution or Dexterity) modifier + Tough Hero Defense bonus</p>"
+		},
+		"Tough as Nails": {
+			"name": "Tough as Nails",
+			"description": "<p>You gain damage reduction (against all damage types) equal to your proficiency bonus.</p>"
+		},
+		"Tricks": {
+			"name": "Tricks",
+			"description": "<p>You learn two tricks, chosen from your class's list of tricks. You learn additional tricks as you gain levels, as shown on the Charming Hero table. Whenever you gain a level in Charming Hero, you can replace one trick you know with another from your class list.</p><p>You can use only one trick during a single attack, saving throw, or ability check.</p><p>The effect of each trick, as well as the action you must take to enact it, is included in the trick's individual description. If a trick calls for a saving throw, the save DC is 8 + your Charisma modifier + your proficiency bonus. This is your trick DC.</p>"
+		},
+		"Ultimate Brutality": {
+			"name": "Ultimate Brutality",
+			"description": "<p>You add one damage die to your melee weapon damage rolls. (See \"Dice Rules\" in chapter 8 for details on extra dice.)</p>"
+		},
+		"Unstoppable": {
+			"name": "Unstoppable",
+			"description": "<p>You have advantage on ability checks and saving throws to avoid or escape being Grappled, Restrained, Paralyzed, Stunned, or knocked Unconscious.</p>"
+		},
+		"Vital Strike": {
+			"name": "Vital Strike",
+			"description": "<p>Once during your turn when you hit a target with an attack, if you had advantage on that attack or an ally is within 5 feet of that target, you can deal an additional 1d6 damage.</p><p>The amount of extra damage increases as you gain levels in this class, as shown in the Vital Strike column of the Scoundrel table.</p>"
+		},
+		"Watch Your Six": {
+			"name": "Watch Your Six",
+			"description": "<p>You gain a +1 bonus to your Defense.</p>"
+		},
+		"Weak Spot": {
+			"name": "Weak Spot",
+			"description": "<p>As a bonus action, you can spend 1 Focus to gain advantage on your next attack roll against one opponent you can see. If that attack hits, you deal an additional 1d6 damage.</p><p>The amount of extra damage increases as you gain levels in this class, as shown in the Weak Spot column of the Sleuth table.</p>"
+		},
+		"Wise": {
+			"name": "Wise",
+			"description": "<p><em><q>Yes, violence can put an end to violence, but peace can only be created through love.</q> <strong>—Zhang Wei</strong></em></p><p>You are known as a person who thinks before you act. You observe the world around you and move with its rhythms instead of struggling against the tide. By first knowing yourself, you can reach out and make the world a better place.</p><p>Wise Heroes are thematically diverse, but they all have a Focus mechanic that can be spent to activate special actions and abilities.</p><p><strong>Hit Dice:</strong> 1d10 per hero level</p><p><strong>Starting Hit Points:</strong> 10 + Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + Constitution modifier per hero level after 1st</p><p><strong>Defense (Know Your Enemy):</strong> 10 + (Wisdom or Dexterity) modifier + Wise Hero Defense bonus</p>"
+		},
+		"You're Doing It Wrong": {
+			"name": "You're Doing It Wrong",
+			"description": "<p>When an ally that can see and hear you misses with an attack, you can use your reaction to instruct them on the proper technique, allowing them to reroll the attack.</p>"
+		}
+	}
+}
