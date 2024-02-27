@@ -1,0 +1,117 @@
+{
+	"label": "Dotes",
+	"entries": {
+		"Ability Score Training": {
+			"name": "Ability Score Training",
+			"description": "<p>You have trained your mind and/or body to increase your overall human potential. Each time you take this feat, you can increase any ability score by 1 to a maximum of 20.</p>"
+		},
+		"Advanced Brawler Training": {
+			"name": "Advanced Brawler Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a brawler (class), @UUID[Compendium.everyday-heroes.feats.pMicAbptZal4lEgw]{Brawler Training} feat, Level 8+</p><p>Few opponents or weapons can survive the powerful blows you deliver.</p><ul><li><p>Once during your turn, when you hit an opponent with an attack with a melee weapon, you can choose to deal an additional 2d6 damage. If you do, and you did not attack with an unarmed strike, the weapon is destroyed. You can't use this talent with explosives attacks.</p></li><li><p>You have advantage on ability checks and saving throws to avoid or escape being Grappled, Restrained, Stunned, or Paralyzed.</p></li></ul>"
+		},
+		"Advanced Commando Training": {
+			"name": "Advanced Commando Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a commando (class), @UUID[Compendium.everyday-heroes.feats.4nkIrLYVzHFL2L1O]{Commando Training} feat, Level 8+</p><p>You're an especially dangerous person, capable of feats in combat few others can match.</p><ul><li><p>You gain Military Equipment proficiency.</p></li><li><p>By pushing yourself to the limit, you can take an additional action during your turn. You can do this only once before you finish a long rest.</p></li><li><p>You gain a +2 bonus to your Defense.</p></li></ul>"
+		},
+		"Advanced Icon Training": {
+			"name": "Advanced Icon Training",
+			"description": "<p><strong>Prerequisite:</strong> Not an icon (class), @UUID[Compendium.everyday-heroes.feats.4tuY3b789b1HjzGa]{Icon Training} feat, Level 8+</p><p>You are definitely the GOAT, don't let anyone tell you differently!</p><ul><li><p>You gain 1 additional influence die.</p></li><li><p>Your influence dice are now d8 instead of d6. (Ignore this if your archetype is Charming Hero.)</p></li><li><p>You learn one additional trick chosen from the list of Icon tricks.</p></li><li><p>Whenever you roll a 1 on an influence die or a damage die, you can reroll that die once, taking the new result.</p></li><li><p>As a reaction, when an opponent within 5 feet that can see you targets you with an attack, you can cause that attack to have disadvantage. They cannot change targets in reaction to you doing this.</p></li></ul>"
+		},
+		"Advanced Mastermind Training": {
+			"name": "Advanced Mastermind Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a mastermind (class), @UUID[Compendium.everyday-heroes.feats.89n6BZEK8HJFr9Jf]{Mastermind Training} feat, Level 8+</p><p>You have devised plans within plans within plans. How about two more plans?</p><ul><li><p>Choose either Investigation or Social Sciences. You gain expertise in the chosen skill.</p></li><li><p>You gain an additional 1 Genius point.</p></li><li><p>You learn 2 additional plans from the mastermind or shared plan list.</p></li><li><p>You can only use mastermind plan enhancements up to Level 5.</p></li><li><p>If you are not a Smart Hero (archetype), you can only use shared plan enhancements up to Level 5.</p></li></ul>"
+		},
+		"Advanced Scoundrel Training": {
+			"name": "Advanced Scoundrel Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a scoundrel (class), @UUID[Compendium.everyday-heroes.feats.vgdztK8DBmylYdZU]{Scoundrel Training} feat, Level 8+</p><p>You have learned all the best ways to hurt a person when they don't see it coming.</p><ul><li><p>Choose one from Acrobatics, Deception, Intimidation, Security, Sleight of Hand, Stealth, and Streetwise. You gain expertise in the chosen skill.</p></li><li><p>Once during your turn, when you hit a target with an attack, if you had advantage on that attack or an ally is within 5 feet of that target, you can choose to deal an additional 2d6 damage. You cannot deal this additional damage if the attack had disadvantage.</p></li></ul>"
+		},
+		"Advanced Skill Training": {
+			"name": "Advanced Skill Training",
+			"description": "<p>You love to acquire new skills and abilities through constant study and practice. Each time you take this feat, you gain expertise in a skill of your choice that you are already proficient in.</p>"
+		},
+		"Advanced Sleuth Training": {
+			"name": "Advanced Sleuth Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a sleuth (class), @UUID[Compendium.everyday-heroes.feats.gkzRMTwhfRyiILhF]{Sleuth Training} feat, Level 8+</p><p>Your intuition has given you the ability to get the drop on your enemies and hit them where it hurts.</p><ul><li><p>Choose one from Insight, Investigation, Perception, Security, and Streetwise. You gain expertise in the chosen skill.</p></li><li><p>You gain 1 additional Focus point.</p></li><li><p>As a bonus action, you can spend 1 Focus point to gain advantage on your next attack roll. If the attack hits, you deal an additional 2d6 damage to the target.</p></li><li><p>When you make a Dexterity saving throw to take half damage from an effect, you take no damage on a successful save, and half damage on a failed one.</p></li></ul>"
+		},
+		"Agile Hero Training": {
+			"name": "Agile Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not an Agile Hero archetype, Dexterity 13+, Level 2+</p><p>You have trained your reflexes to a razor's edge. Your movements are both swift and elegant.</p><ul><li><p>You gain Basic Equipment proficiency.</p></li><li><p>Choose one from Acrobatics, Sleight of Hand, Stealth, and Vehicles. You gain proficiency in the chosen skill.</p></li><li><p>You can take the Dash or Disengage action as a bonus action.</p></li><li><p>During a foot chase, you have advantage on Strength (Athletics) checks made as part of a Gain Ground action.</p></li></ul>"
+		},
+		"Battlefield Medic": {
+			"name": "Battlefield Medic",
+			"description": "<p>You've trained in first aid and emergency medicine.</p><ul><li><p>When using a first aid kit to stabilize someone, that person also recovers 1 hit point.</p></li><li><p>As an action, you can use a first aid kit to treat a conscious person adjacent to you. Make a DC 10 Intelligence (Medicine) check. If successful, the target may spend one Hit Die to regain hit points. This action cannot be used again on the same person until after they have taken a short or long rest.</p></li><li><p>If you don't have a first aid kit at hand, you can try to improvise. Make a DC 15 Wisdom (Survival) check. If successful, you don't need a first aid kit. If the check fails, you cannot find the materials needed.</p></li></ul>"
+		},
+		"Brawler Training": {
+			"name": "Brawler Training",
+			"description": "<p><strong>Prerequisite:</strong> Strong Hero archetype OR Strong Hero Training feat, not a brawler (class), Level 4+</p><p>You have trained yourself to be an engine of destruction, letting nothing stand between you and your target.</p><ul><li><p>You gain Improvised Equipment proficiency.</p></li><li><p>You have advantage on any Strength check you make to break an object. In addition, your melee attacks have +1 Penetration Value.</p></li><li><p>As a bonus action, you can move up to your speed, but you must move toward an opponent. If there are no enemies present, you may move toward an obviously dangerous situation instead.</p></li></ul>"
+		},
+		"Charming Hero Training": {
+			"name": "Charming Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a Charming Hero archetype, Charisma 13+, Level 2+</p><p>You have a way with words and/or looks that could kill.</p><ul><li><p>Choose two from Deception, Intimidation, Performance, and Persuasion. You gain proficiency in the chosen skills.</p></li><li><p>Choose one from Deception, Intimidation, Performance, and Persuasion). You must be proficient in the chosen skill. You gain expertise in the chosen skill.</p></li><li><p>You have two influence dice, which are d6s. An influence die is expended when it is rolled. You regain all of your expended influence dice when you finish a short or long rest.</p></li><li><p>When you make a Charisma check, after rolling but before determining the result, you can roll an influence die and add it to your result.</p></li></ul>"
+		},
+		"Commando Training": {
+			"name": "Commando Training",
+			"description": "<p><strong>Prerequisite:</strong> @UUID[Compendium.everyday-heroes.archetypes-classes.zoMzfdLk69CX8Bi1]{Tough Hero} archetype OR @UUID[Compendium.everyday-heroes.feats.QrAaAJZXDDpg2deV]{Tough Hero Training} feat, not a commando (class), Level 4+</p><p>You give your all in combat, making you a very difficult target to take down.</p><ul><li><p>You gain Advanced Equipment proficiency.</p></li><li><p>You can take the Second Wind action as a bonus action.</p></li><li><p>You can draw, arm, and throw a grenade as a bonus action. You must have a free hand or already be holding the grenade to do this.</p></li></ul>"
+		},
+		"Equipment Training": {
+			"name": "Equipment Training",
+			"description": "<p>You have trained to use various kinds of combat equipment.</p><ul><li><p>You gain Basic Equipment proficiency if you don't already have it.</p></li><li><p>Choose one additional equipment proficiency from Advanced Equipment, Historical Equipment, and Improvised Equipment.</p></li><li><p>If you already have Advanced Equipment, you may select Military Equipment.</p></li></ul>"
+		},
+		"Gunfighter": {
+			"name": "Gunfighter",
+			"description": "<p>You have a quick trigger finger and can shoot accurately in close quarters.</p><ul><li><p>You don't suffer disadvantage for attacking with a firearm against an adjacent opponent.</p></li><li><p>You can take a bonus action to treat any firearm you wield that does not have the slow-firing property as if it had the Burst 3 property until the end of your turn.</p></li></ul>"
+		},
+		"Icon Training": {
+			"name": "Icon Training",
+			"description": "<p><strong>Prerequisite:</strong> @UUID[Compendium.everyday-heroes.archetypes-classes.ZGy9FnmUpeF2DkeI]{Charming Hero} archetype OR @UUID[Compendium.everyday-heroes.feats.tMoG8d8LXgrUgqck]{Charming Hero Training} feat, not an icon (class), Level 4+</p><p>You are the bee's knees, the cat's pajamas, and perhaps the GOAT!</p><ul><li><p>You gain Basic Equipment and Advanced Equipment proficiencies.</p></li><li><p>You gain 1 additional influence die.</p></li><li><p>You learn two tricks, chosen from the list of icon tricks.</p></li><li><p>As a bonus action, you can give your allies an opening by drawing the attention of an opponent you are aware of who can hear you within 60 feet. The next attack one of your allies makes against that target before the start of your next turn has advantage.</p></li></ul>"
+		},
+		"Investments": {
+			"name": "Investments",
+			"description": "<p>You have either made wise investments or come into an inheritance of some kind. Each time you take this feat, you gain +1 Wealth Level (maximum 5).</p>"
+		},
+		"Jack of All Trades": {
+			"name": "Jack of All Trades",
+			"description": "<p>You're well read and good at anything you set your mind to. You can add half your proficiency bonus (rounded down) to any ability check calling for a skill you are not proficient in. You may not use this bonus if no skill is applicable.</p>"
+		},
+		"Mastermind Training": {
+			"name": "Mastermind Training",
+			"description": "<p><strong>Prerequisite:</strong> @UUID[Compendium.everyday-heroes.archetypes-classes.FBLv7Az4ke2UqomX]{Smart Hero} archetype OR @UUID[Compendium.everyday-heroes.feats.OfSRLXjSZ6K8uiY5]{Smart Hero Training} feat, not a mastermind (class), Level 4+</p><p>You have spent an awful lot of time trying to outsmart everyone, and it's working.</p><ul><li><p>Choose either Investigation or Social Sciences. You gain proficiency in the chosen skill.</p></li><li><p>You gain an additional 1 Genius point.</p></li><li><p>You learn 1 additional plan from the mastermind plan list.</p></li><li><p>You can only use mastermind plan enhancements up to Level 3.</p></li><li><p>If you are not a Smart Hero (archetype), you can only use shared plan enhancements up to Level 3.</p></li></ul>"
+		},
+		"Scoundrel Training": {
+			"name": "Scoundrel Training",
+			"description": "<p><strong>Prerequisite:</strong> @UUID[Compendium.everyday-heroes.archetypes-classes.nsBzmGJlG97raFBl]{Agile Hero} archetype OR @UUID[Compendium.everyday-heroes.feats.1925uIYj4BBRuTkc]{Agile Hero Training} feat, not a scoundrel (class), Level 4+</p><p>You have gotten pretty good at getting the upper hand through under-handed tactics.</p><ul><li><p>You gain Advanced Equipment proficiency.</p></li><li><p>Choose one from Acrobatics, Deception, Intimidation, Security, Sleight of Hand, Stealth, and Streetwise. You gain proficiency in the chosen skill.</p></li><li><p>You can Hide, Object Interaction, or make a Security or Sleight of Hand check as a bonus action.</p></li><li><p>You have advantage on attack rolls against any opponent that has not acted this combat.</p></li></ul>"
+		},
+		"Signature Weapon": {
+			"name": "Signature Weapon",
+			"description": "<p>You're dedicated to the use of a specific weapon and feel more confident when wielding it.</p><p>Choose a specific weapon as your signature weapon, describe it, and give it a name. All further benefits of this feat require you to be wielding this weapon.</p><ul><li><p>You can ignore one source of disadvantage when making an attack roll.</p></li><li><p>You have advantage on ability checks to avoid being disarmed.</p></li><li><p>You have advantage on Charisma (Intimidation) checks.</p></li><li><p>Your signature weapon will not break as a result of your own actions, abilities, or class talents.</p></li></ul><p>If some horrible foe or other calamity destroys your precious signature weapon, you can designate and name a new one after an appropriate mourning period of 1 week.</p>"
+		},
+		"Skill Training": {
+			"name": "Skill Training",
+			"description": "<p>You love to acquire new skills and abilities through constant study and practice. Each time you take this feat, you gain proficiency in two skills of your choice.</p>"
+		},
+		"Sleuth Training": {
+			"name": "Sleuth Training",
+			"description": "<p><strong>Prerequisite:</strong> @UUID[Compendium.everyday-heroes.archetypes-classes.hdXk8RrABBGHEeTR]{Wise Hero} archetype OR @UUID[Compendium.everyday-heroes.feats.MjCeqBoRgveSX8cH]{Wise Hero Training} feat, not a sleuth (class), Level 4+</p><p>You have honed your awareness of your environment and are adept at spotting an opponent's weaknesses.</p><ul><li><p>You gain Advanced Equipment proficiency.</p></li><li><p>Choose one from Insight, Investigation, Perception, Security, and Streetwise. You gain proficiency in the chosen skill.</p></li><li><p>You cannot be surprised.</p></li><li><p>You can take the Search action as a bonus action.</p></li><li><p>You gain 1 additional Focus point.</p></li><li><p>You can spend 1 Focus point to reroll a failed Intelligence ability check. This may only be done once per ability check.</p></li></ul>"
+		},
+		"Smart Hero Training": {
+			"name": "Smart Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a Smart Hero archetype, Intelligence 13+, Level 2+</p><p>You have sharpened your wits to a razor's edge and turned your mind into the greatest weapon of all.</p><ul><li><p>You gain 2 Genius points. You can enact any plan you know by spending 1 Genius point. Genius points recharge when you finish a long rest. Your Plan DC formula is 8 + your Intelligence modifier + your proficiency bonus.</p></li><li><p>You learn two plans from the Shared Plans list for Smart Heroes.</p></li><li><p>You can only use shared plan enhancements up to Level 1.</p></li></ul>"
+		},
+		"Strong Hero Training": {
+			"name": "Strong Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a Strong Hero archetype, Strength 13+, Level 2+</p><ul><li><p>You have learned how to use your strength to focus an aggressive offense.</p></li><li><p>You gain Basic Equipment proficiency.</p></li><li><p>You gain proficiency in one of the following skills: Athletics, Acrobatics, or Endurance.</p></li></ul><p>\u0017Before making an attack, you can declare you are being reckless. You gain advantage on all melee weapon attack rolls but all opponents attacking you have advantage on their attack rolls. This lasts until the start of your next turn.</p>"
+		},
+		"Survival Training": {
+			"name": "Survival Training",
+			"description": "<p>You have hardened yourself against various hazards. Each time you take this feat, you gain proficiency with one type of saving throw of your choice.</p>"
+		},
+		"Tough Hero Training": {
+			"name": "Tough Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a Tough Hero archetype, Constitution 13+, Level 2+</p><p>You have toughened yourself up to where you find a little pain and exertion rather exhilarating.</p><ul><li><p>You gain Basic Equipment proficiency.</p></li><li><p>You gain damage reduction (against all damage types) equal to your proficiency bonus.</p></li><li><p>Once during your turn, when you attack an opponent that has damaged you since the end of your last turn, you gain a +2 bonus on the attack roll.</p></li></ul>"
+		},
+		"Wise Hero Training": {
+			"name": "Wise Hero Training",
+			"description": "<p><strong>Prerequisite:</strong> Not a Wise Hero archetype, Wisdom 13+, Level 2+</p><p>You have learned to act with efficiency rather than speed, carefully choosing the correct course of action.</p><ul><li><p>You gain Basic Equipment proficiency.</p></li><li><p>Choose one from Insight, Perception, Streetwise, and Survival. You gain proficiency in the chosen skill.</p></li><li><p>You gain 2 focus points. Your Focus recharges whenever you finish a short or long rest.</p></li><li><p>You can spend one focus point to reroll a failed Wisdom ability check. This may only be done once per ability check.</p></li><li><p>You can choose not to fall Prone when you Dive for Cover.</p></li></ul>"
+		}
+	}
+}
